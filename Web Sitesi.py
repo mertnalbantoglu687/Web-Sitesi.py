@@ -10,7 +10,7 @@
         
     </head>
     <body>
-        <h1> ÇEVRE KİRLİLİĞİNİ AZALTMA KURALLARI </h1>
+        <h1> PARLAK BİR GELECEK İÇİN YAPABİLECEKLERİNİZ </h1>
             <ul>
                 <p> 1. Çöplerini yere değil çöp kutusuna atabilirsin. </p>
                 <p> </p>
